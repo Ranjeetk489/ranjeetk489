@@ -19,7 +19,7 @@
 <a href="https://twitter.com/ranjeetk21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjeetk21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ranjeet kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjeet kumar" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ranjeetk489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ranjeetk489" height="30" width="40" /></a>
-<a href="https://discord.gg/ranjeet#9013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ranjeet#9013" height="30" width="40" /></a>
+<a href="https://discord.com/users/ranjeet#9013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ranjeet#9013" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
