@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/ranjeetk21" target="blank"><img src="https://img.shields.io/twitter/follow/ranjeetk21?logo=twitter&style=for-the-badge" alt="ranjeetk21" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, ReactJs, Mongodb, System Design and anything intersting i find**
+- 🌱 I’m currently Working with **Javascript,Typescript, ReactJs,Nextjs,Express, Mongodb, System Design and anything intersting i find**
 
 - 👨‍💻 All of my projects are available at [ranjeet.live](ranjeet.live)
 
-- 📝 I regularly write articles on [iamnotdone.tech](iamnotdone.tech)
+- 📝 I regularly write articles on [blogs.ranjeet.live](blogs.ranjeet.live)
 
-- 💬 Ask me about **React, Javascript, graphql**
+- 💬 Ask me about **React, Javascript, graphql, nextjs, system design, typescript,git, vite**
 
 - 📫 How to reach me **ranjeet7494@outlook.com**
 
